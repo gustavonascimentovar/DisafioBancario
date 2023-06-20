@@ -1,0 +1,20 @@
+C:\Users\Gustavo\OneDrive\Área de Trabalho\WebDesafio.Repository\obj\Debug\netcoreapp3.1\WebDesafio.Repository.csproj.AssemblyReference.cache
+C:\Users\Gustavo\OneDrive\Área de Trabalho\WebDesafio.Repository\obj\Debug\netcoreapp3.1\WebDesafio.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\OneDrive\Área de Trabalho\WebDesafio.Repository\obj\Debug\netcoreapp3.1\WebDesafio.Repository.AssemblyInfoInputs.cache
+C:\Users\Gustavo\OneDrive\Área de Trabalho\WebDesafio.Repository\obj\Debug\netcoreapp3.1\WebDesafio.Repository.AssemblyInfo.cs
+C:\Users\Gustavo\OneDrive\Área de Trabalho\WebDesafio.Repository\obj\Debug\netcoreapp3.1\WebDesafio.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\OneDrive\Área de Trabalho\WebDesafio.Repository\bin\Debug\netcoreapp3.1\WebDesafio.Repository.deps.json
+C:\Users\Gustavo\OneDrive\Área de Trabalho\WebDesafio.Repository\bin\Debug\netcoreapp3.1\WebDesafio.Repository.dll
+C:\Users\Gustavo\OneDrive\Área de Trabalho\WebDesafio.Repository\bin\Debug\netcoreapp3.1\WebDesafio.Repository.pdb
+C:\Users\Gustavo\OneDrive\Área de Trabalho\WebDesafio.Repository\obj\Debug\netcoreapp3.1\WebDesafio.Repository.dll
+C:\Users\Gustavo\OneDrive\Área de Trabalho\WebDesafio.Repository\obj\Debug\netcoreapp3.1\WebDesafio.Repository.pdb
+C:\Users\Gustavo\OneDrive\Documentos\GitDesafio\WebDesafio.Repository\bin\Debug\netcoreapp3.1\WebDesafio.Repository.deps.json
+C:\Users\Gustavo\OneDrive\Documentos\GitDesafio\WebDesafio.Repository\bin\Debug\netcoreapp3.1\WebDesafio.Repository.dll
+C:\Users\Gustavo\OneDrive\Documentos\GitDesafio\WebDesafio.Repository\bin\Debug\netcoreapp3.1\WebDesafio.Repository.pdb
+C:\Users\Gustavo\OneDrive\Documentos\GitDesafio\WebDesafio.Repository\obj\Debug\netcoreapp3.1\WebDesafio.Repository.csproj.AssemblyReference.cache
+C:\Users\Gustavo\OneDrive\Documentos\GitDesafio\WebDesafio.Repository\obj\Debug\netcoreapp3.1\WebDesafio.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\OneDrive\Documentos\GitDesafio\WebDesafio.Repository\obj\Debug\netcoreapp3.1\WebDesafio.Repository.AssemblyInfoInputs.cache
+C:\Users\Gustavo\OneDrive\Documentos\GitDesafio\WebDesafio.Repository\obj\Debug\netcoreapp3.1\WebDesafio.Repository.AssemblyInfo.cs
+C:\Users\Gustavo\OneDrive\Documentos\GitDesafio\WebDesafio.Repository\obj\Debug\netcoreapp3.1\WebDesafio.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\OneDrive\Documentos\GitDesafio\WebDesafio.Repository\obj\Debug\netcoreapp3.1\WebDesafio.Repository.dll
+C:\Users\Gustavo\OneDrive\Documentos\GitDesafio\WebDesafio.Repository\obj\Debug\netcoreapp3.1\WebDesafio.Repository.pdb

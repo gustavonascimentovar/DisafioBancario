@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Desafio\**" />
+    <Content Remove="Desafio\**" />
+    <EmbeddedResource Remove="Desafio\**" />
+    <None Remove="Desafio\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebDesafio.Application\WebDesafio.Application.csproj" />
+    <ProjectReference Include="..\WebDesafio.Repository\WebDesafio.Repository.csproj" />
+  </ItemGroup>
+
+
+</Project>
